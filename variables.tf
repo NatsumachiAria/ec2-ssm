@@ -16,12 +16,12 @@ variable "instance_type" {
 
 variable "existing_vpc" {
   type    = string
-  default = "vpc-02a71c9d084cdec21"
+  default = "aaaaaaa"
 }
 
 variable "my_ip" {
   type = string
-  default = "119.76.31.207/32"
+  default = "aaaaaaa"
 }
 
 # Var for Key pair
