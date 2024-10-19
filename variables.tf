@@ -23,9 +23,3 @@ variable "my_ip" {
   type = string
   default = "aaaaaaa"
 }
-
-# Var for Key pair
-#variable "key-pair-name" {
-#  type = string
-#  default = "my-test-key-pair"
-#}
